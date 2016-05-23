@@ -1,3 +1,3 @@
 # HelloWorld
-testing first git prooject
+testing first git project
 Edit 1.
